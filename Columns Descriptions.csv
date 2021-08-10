@@ -1,0 +1,35 @@
+,Description
+spkid,Object primary spk-id
+full_name,Object full name/designation
+pdes,Object primary designation
+name,Object IAU name
+prefix,Comet designation prefix(?)
+neo,Near-Earth Object flag
+pha,Potentially Hazardous Asteroid flag
+H,Absolute magnitude
+diameter,Object diameter (from equivalent sphere) [km]
+albedo,Geometric albedo
+diameter_sigma,1-sigma uncertainty in diameter [km]
+orbit_id,Orbit Solution ID
+epoch,Epoch of osculation in Julian day form [TDB]
+epoch_mjd,Epoch in modified Julian day form [TDB]
+epoch_cal,Epoch in calender date/time form [TDB]
+equinox,Equinox of reference frame
+e,Eccentricity
+a,Semi-major axis [AU]
+q,Perihelion distance [AU]
+i,Inclination [deg]
+om,Longitude of the ascending node [deg]
+w,Argument of perihelion [deg]
+ma,Mean anomaly [deg]
+ad,Aphelion distance [AU]
+n,Mean motion [deg/d]
+tp,Time of perihelion passage [TDB]
+tp_cal,TP converted to calender date/time [TDB]
+per,Sidereal orbital period [d]
+per_y,Sidereal orbital period [years]
+moid,Earth minimum orbit intersection distance [AU]
+moid_ld,Earth MOID in LD [LD]
+sigma_*,1-sigma uncertainty of various parameters
+class,Orbit Classification
+rms,Normalized root mean square of orbit fit
